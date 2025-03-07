@@ -11,7 +11,7 @@ The game **draws the grid directly on the terminal**, with different colors for 
 
 ## Running the Program
 
-### 1. Compile and Run the Game
+### 1. Compile the Game
 
 To **compile** the game, you can use the provided **`.bat`** file. This batch script will:
 
@@ -26,7 +26,7 @@ To **compile** the game, you can use the provided **`.bat`** file. This batch sc
     build.bat
     ```
 
-### 2. Arguments
+### 2. Set arguments and Run
 
 The program requires **three arguments** to work:
 
