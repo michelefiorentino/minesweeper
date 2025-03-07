@@ -36,9 +36,9 @@ The program requires **three arguments** to work:
 
 **Example usage**:
 ```bash
-java -jar minesweeper.jar 10 10 20
+java -jar minesweeper.jar 12 20 35
 ```
-This command would start the Minesweeper game with a 10x10 grid and 20 mines.<br>
+This command would start the Minesweeper game with a 12x20 grid and 35 mines.<br>
 The game continues until all non-mine cells are uncovered or a mine is hit.
 
 <img src="images/minesweeper_game_example.png" width="50%" alt="">
