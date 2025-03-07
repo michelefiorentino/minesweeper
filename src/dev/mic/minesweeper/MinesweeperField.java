@@ -192,7 +192,6 @@ public class MinesweeperField {
             case '6' -> Color.YELLOW;
             case '7' -> Color.PINK;
             case '8' -> Color.GOLD;
-            case '9' -> Color.AMBER;
             default -> Color.WHITE;
         };
     }

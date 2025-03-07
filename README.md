@@ -40,3 +40,5 @@ java -jar minesweeper.jar 10 10 20
 ```
 This command would start the Minesweeper game with a 10x10 grid and 20 mines.<br>
 The game continues until all non-mine cells are uncovered or a mine is hit.
+
+<img src="images/minesweeper_game_example.png" width="50%" alt="">

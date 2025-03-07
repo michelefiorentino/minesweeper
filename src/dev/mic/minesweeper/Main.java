@@ -86,7 +86,7 @@ public class Main {
             if(input.charAt(0) == '1')
                 return 'f';
             if(input.charAt(0) == '0')
-                return 'f';
+                return 'd';
         } while(input.length() != 1 || input.charAt(0) != 'f' && input.charAt(0) != 'd');
         return input.charAt(0);
     }
@@ -99,12 +99,6 @@ public class Main {
             return false;
         }
     }
-
-    /*
-    private static void clearConsole(){
-        for(int i=0; i<50; i++)
-            Logger.println();
-    }*/
 
     public static void clearConsole() {
         try {
